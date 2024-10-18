@@ -16,8 +16,8 @@
 
 
 
-## SEQUENCE DIAGRAM
 
+## SEQUENCE DIAGRAM
 ![377513730-1e65ba7d-662b-4475-ab6b-ebb844497842](https://github.com/user-attachments/assets/e84b1b74-b954-4b19-9be7-ad7b8ba4f692)
 
 
